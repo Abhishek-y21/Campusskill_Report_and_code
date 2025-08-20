@@ -28,7 +28,7 @@ The Arduino code is available.
 ## 🚀 How to Run
 1. Connect components as per circuit diagram.  
 2. Open the code in Arduino IDE or VS Code.  
-3. Upload fire_alarm_extinguisher.ino to Arduino UNO.  
+3. Upload fire_alarm_code.ino to Arduino UNO.  
 4. Test by bringing a lighter/matchstick flame near the sensor.  
 
 ## 👨‍💻 Author
